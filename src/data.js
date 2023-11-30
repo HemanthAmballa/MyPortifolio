@@ -10,7 +10,7 @@ const projects = [
       id: 2,
       title: "Backend project",
       projectName: "Student Education Management System",
-      description: "This project enables the school Management to monitor Student's fees, Marks.it consists of Three different authentication levels ADMIN, TEACHER and STUDENT. Admin acts a principle where he has access to perform CRUD operation and teachers and students. Likewise teacher has control over students fee and marks and  students can check marks amd pay their fees ",
+      description: "This project enables the school Management to monitor Student's fees, Marks.it consists of Three different authentication levels ADMIN, TEACHER and STUDENT. Admin acts a principle where he has access to perform CRUD operation and teachers and students. Likewise teacher has control over students fee and marks and  students can check marks amd pay their fees.",
       Skills : ["Spring Boot","Rest API", "Spring data JPA" ,"Spring MVC pattern","Spring Security with JWT role wise authentication","Advanced Java","log4j","MySQL"]
     },
   ]
